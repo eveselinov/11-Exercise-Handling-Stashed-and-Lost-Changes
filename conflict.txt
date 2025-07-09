@@ -1,1 +1,1 @@
-Main version
+Resolved conflict version
