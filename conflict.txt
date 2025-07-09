@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Resolved conflict version
+=======
+Conflict version
+>>>>>>> Stashed changes
